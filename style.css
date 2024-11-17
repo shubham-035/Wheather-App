@@ -1,0 +1,65 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins","sans-serif";
+}
+
+.container-fluid{
+    background-image: url("starry-night-sky-reflection-background-hd-wallpaper-sr10012425.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.whether-card-container{
+    height: 490px;
+    width: 380px;
+    background-color: rgba(255,255,255,.2);
+    margin-top: 120px;
+    padding: 10px;
+    border-radius: 25px;
+    border:2px solid rgba(255,255,255,.3)
+}
+.input-user{
+    padding: 10px;
+    font-size: 20px;
+    background-color:transparent;
+    border-radius: 20px;
+}
+.search-button{
+    background-color: aliceblue;
+
+}
+.cloud-img{
+    width: 250px;
+    height: 200px;
+    transition: 0.6 ease;
+}
+.temp{
+    font-size: 45px;
+    color:red;
+    font-weight: 700;
+    transition: 0.6 ease;
+}
+.para1{
+    font-size: 30px;
+    color:black;
+    font-weight: 500;
+    line-height: 20px;
+    transition: 0.6 ease;
+}
+.icon{
+    font-size: 50px;
+    font-weight: 700;
+    color: black;
+}
+.description{
+    color:black;
+    font-weight: 500;
+    line-height: 10px;
+    font-size: 20px;
+    transition: 0.6 ease;
+}
+.description1{
+    font-size: 15px;
+    color:black;
+    font-weight: 400;
+}
